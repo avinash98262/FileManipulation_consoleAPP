@@ -1,0 +1,11 @@
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\bin\Debug\net8.0\FileOperationLibrary.deps.json
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\bin\Debug\net8.0\FileOperationLibrary.dll
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\bin\Debug\net8.0\FileOperationLibrary.pdb
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.AssemblyInfoInputs.cache
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.AssemblyInfo.cs
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.dll
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\refint\FileOperationLibrary.dll
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\FileOperationLibrary.pdb
+C:\Users\avinash.p\source\repos\Solution\FileOperationLibrary\obj\Debug\net8.0\ref\FileOperationLibrary.dll
